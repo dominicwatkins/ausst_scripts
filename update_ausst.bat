@@ -1,5 +1,5 @@
 @echo off
-REM Script to update currently downloaded Adobe Update Server Setup Tool files used for updating applications
+REM Windows script to update currently downloaded Adobe Update Server Setup Tool files used for updating applications
 
 REM Location of update files
 set AUSSTROOT="E:\Installers\AUSST"
